@@ -1,11 +1,12 @@
 ---
 sidebar_position: 2
 title: 'II: Affiliation'
+
 ---
 
 # ARTICLE II. Affiliation
 
-The Eastern Iowa Lutheran High School Association shall be formally affiliated with the [Lutheran Church Missouri Synod](https://www.lcms.org) and the [American Association of Lutheran Churches](https://www.taalc.org) as long as said organizations shall remain faithful to the doctrinal standards set forth in Article III of these By-laws.
+The Eastern <mark>Iowa Lutheran High School</mark> Association shall be formally affiliated with the [Lutheran Church Missouri Synod](https://www.lcms.org) and the [American Association of Lutheran Churches](https://www.taalc.org) as long as said organizations shall remain faithful to the doctrinal standards set forth in Article III of these By-laws.
 
 :::info "LCMS Recognized Service Organization"
 

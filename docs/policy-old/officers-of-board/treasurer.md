@@ -1,0 +1,7 @@
+# Treasurer of the Board of Directors
+
+The Treasurer shall have custody of and be responsible for all monies and securities of the Association.  He shall keep full and accurate records and accounts in books belonging to the Association, showing the transactions of the Association, its accounts, liabilities and receipts and vouchers.  He shall deposit the monies of the Association in such depositories as may be designated by the Board of Directors.  Such Deposits shall be made in the name of the Association and may be withdrawn therefrom only by such checks signed by officers as may be designated by the Board of Directors.  His books and accounts shall be open at all times to the directors and officers of the Association.  
+
+The Treasurer shall also endorse for the collection or deposit, all bills, checks and other negotiable instruments of the Association and shall pay out money as may be necessary in the transactions of the Association, and generally have supervision of the finances of the Association.
+
+He shall also make a full report of the financial condition of the Association and provide financial statements and other financial information as requested by the Board of Directors in accordance with generally accepted accounting principles and standards and at the regular meetings of the Delegate Assembly and shall also make such other reports and statements and perform such other duties as may be required of him by the Delegate Assembly and Board of Directors.
