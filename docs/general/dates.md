@@ -3,19 +3,42 @@ sidebar_position: 2
 title: 'Dates to Remember'
 ---
 
-## January
-* Notify member churches of Director end-of-term
-* Notify member churches to select at-large nominees
+**January**
+* Delegate Business Meeting
+    * Set date and agenda
+    * Notify member churches of Director end-of-term
+    * Notify member churches to select at-large nominees
+
+**February**
 
 
-## February
+**March**
 
 
-## March
-
-
-## April
+**April**
 * Annual Delegate Meeting
 
-## May
+**May**
 * Officer Elections
+
+**June**
+
+
+**July**
+* Delegate Celebration
+    * Set date and agenda
+
+**August**
+
+
+**September**
+
+
+**October**
+Delegate Celebration Meeting
+
+**November**
+
+
+**December**
+

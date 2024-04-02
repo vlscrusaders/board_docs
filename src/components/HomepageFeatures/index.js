@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_agreement_re_d4dv.svg').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -14,8 +14,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Policy',
+    Svg: require('@site/static/img/undraw_books_re_8gea.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -24,8 +24,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Procedures',
+    Svg: require('@site/static/img/undraw_chore_list_re_2lq8.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
