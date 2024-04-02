@@ -91,6 +91,12 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            sidebarId: 'generalSidebar',
+            position: 'left',
+            label: 'General',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'bylawSidebar',
             position: 'left',
             label: 'Bylaws',

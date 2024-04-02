@@ -1,7 +1,6 @@
 ---
 sidebar_position: 2
 title: 'II: Affiliation'
-
 ---
 
 # ARTICLE II. Affiliation
