@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Bylaws',
     Svg: require('@site/static/img/undraw_agreement_re_d4dv.svg').default,
     description: (
       <>

@@ -81,6 +81,14 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/valley-512x512.png',
+      announcementBar: {
+        id: 'support_us',
+        content:
+          'Material provided on this site is for reference only',
+        backgroundColor: '#6600AD',
+        textColor: '#ffffffAA',
+        isCloseable: false,
+      },
       navbar: {
         hideOnScroll: true,
         title: 'Valley BoD',
@@ -113,12 +121,12 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
