@@ -9,3 +9,9 @@
   height: 200px;
   width: 200px;
 }
+
+@media (min-width: 997px) {
+  :root {
+      --docusaurus-announcement-bar-height: 35px;
+  }
+}
